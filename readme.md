@@ -20,6 +20,10 @@ A simple software that will generate a template for a readme file, while includi
 
 The user will need to use Node.js in order to use this application.
 
+## Demo
+
+![Demo](assets/demo.gif)
+
 ## Usage
 
 REQUIRED: Node.js.
